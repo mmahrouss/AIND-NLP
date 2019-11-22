@@ -1,3 +1,6 @@
+# My Additions:
+- ## Solved sentiment_analysis.ipynb
+# Original Repo README:
 # AIND: Natural Language Processing
 
 Coding exercises for the Natural Language Processing concentration, part of Udacity's Artificial Intelligence Nanodegree program.
